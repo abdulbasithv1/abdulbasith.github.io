@@ -15,7 +15,7 @@ batch a
 
 
 
-<img src="images.JPG" width="350">
+<img src="images.jpg" width="350">
 
 
 
