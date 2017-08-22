@@ -21,7 +21,7 @@ batch a
 
 # Day 2 : Github Pages and Documentation
 
-<img src="image1 (1).jpg" width="350">
+<img src="image1 (1).JPG" width="350">
 
 
                                
