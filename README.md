@@ -105,3 +105,9 @@ Project
 # Day 6 3D Printing
 <img src="3dd.JPG" width="350">
 <img src="3d1.JPG" width="350">
+
+# LASER CUTTING ,MOULDING AND CASTING
+
+LASER CUTTING
+<img src="laser.JPG" width="350">
+<img src="lsc.JPG" width="350">
