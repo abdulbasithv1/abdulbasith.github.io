@@ -91,5 +91,5 @@ Day 7 : Laser Cutting,Moulding and Casting
                                 
 Project
 
-# Day 3 : electronics production and cnc
-<img src="cncc.jpg width="350">
+# Day 3 : electronics production and cn
+<img src="images.jpg" width="350">
