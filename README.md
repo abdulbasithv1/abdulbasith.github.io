@@ -98,7 +98,7 @@ Project
 
 # Day 4 vinyl cutting
 <img src="" width="350">
-
+<img src="laser.JPG" width="350">
 
 # Day 5 Screen Printing
 
@@ -109,5 +109,5 @@ Project
 # LASER CUTTING ,MOULDING AND CASTING
 
 LASER CUTTING
-<img src="laser.JPG" width="350">
+
 <img src="lsc.JPG" width="350">
