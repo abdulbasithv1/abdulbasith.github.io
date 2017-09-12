@@ -94,3 +94,14 @@ Project
 # Day 3 : electronics production and cnc
 <img src="cncc.JPG" width="350">
 <video src="cnc.MOV" width="320" height="200" controls preload></video>
+
+
+# Day 4 vinyl cutting
+<img src="" width="350">
+
+
+# Day 5 Screen Printing
+
+# Day 6 3D Printing
+<img src="3dd.JPG" width="350">
+<img src="3d1.JPG" width="350">
